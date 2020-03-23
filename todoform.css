@@ -1,0 +1,18 @@
+.todoform input {
+    background-color: #1C1C21;
+    color: white;
+    border: none;
+    border-bottom: 2px outset rgba(209,222,227,0.22);
+    font-size: 20px;
+    outline: none;
+    width: 73%;
+   }
+
+.todoform button {
+    background-color: #1C1C21;
+    color: rgba(209,222,227,0.82);
+    
+    font-size: 18px;
+    margin-left: 5px;
+    outline: none;
+}
